@@ -1,4 +1,4 @@
-# Portifolio Website
+# Portfolio Website
 GDSC's Fall 23's Second Workshop Project to build your own portifolio.
 
 ## Description
