@@ -13,7 +13,9 @@ Before you start, please install the resources below: <br>
 GDSC README Template: https://github.com/USFGDSC/ReadMeTemplate
 
 ## ScreenShots
-()[]
+<p align="center">
+  <img src="https://github.com/USFGDSC/portfolioWebsite/assets/98829238/2ae6df8f-0522-4d74-bec8-f9f0ea1a6a19" width=690px height=900px align="center" />
+</p>
 
 ## Technologies used:
 - HTML, CSS
