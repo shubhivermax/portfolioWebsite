@@ -1,0 +1,5 @@
+/*  "*" selects all the elements in the file */
+* {
+    padding: 0;
+    margin: 0;
+}
