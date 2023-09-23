@@ -6,7 +6,7 @@ Before you start, please install the resources below: <br>
 <ul>
   <li>Visual Studio Code: https://code.visualstudio.com/download</li>
   <li>GitHub Extention: Live Server</li>
-  <li>Assets Folder:</li>
+  <li>Assets Folder: https://github.com/USFGDSC/portifolioWebsite/tree/main/assets</li>
 </ul>
 
 ## ScreenShots
