@@ -7,7 +7,7 @@ Before you start, please install the resources below: <br>
   <li>Visual Studio Code: https://code.visualstudio.com/download</li>
   <li>GitHub Extention: Live Server</li>
   <li>Git Bash: https://git-scm.com/downloads</li>
-  <li>Assets Folder: https://github.com/USFGDSC/portifolioWebsite/tree/main/assets</li>
+  <li>Assets Folder: https://drive.google.com/drive/folders/1jeJA6KahoaUadTVN9l_A0qHpSVnYVcBZ?usp=sharing</li>
 </ul>
 
 GDSC README Template: https://github.com/USFGDSC/ReadMeTemplate
