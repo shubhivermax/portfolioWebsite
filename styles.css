@@ -95,8 +95,21 @@ footer {
     text-align: center;
 }
 
+.dark-mode {
+    color: #E4E6EB;
+    background-color: #818181;
+}
 
+#toggleButton {
+    border-radius: 7px;
+    background-color: white;
+    font-size: 16px;
+    border: 1px solid white;
+    padding: 2px;
+}
 
-
+#toggleButton:hover {
+    opacity: 0.7;
+}
 
 
